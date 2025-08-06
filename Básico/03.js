@@ -1,3 +1,5 @@
+//Dado tres números, muestra cuál es el mayor.
+
 let number1 = 5;
 let number2 = 10;
 let number3 = 7;
