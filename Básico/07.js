@@ -1,3 +1,5 @@
+//Calculadora simple (sumar, restar, multiplicar, dividir) usando funciones y prompt.
+
 const prompt = require('prompt-sync')();
 
 let number1 = parseFloat(prompt("Ingresa el primer número: "));
